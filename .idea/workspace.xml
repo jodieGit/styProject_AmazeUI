@@ -1,0 +1,809 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="21211128-e44e-40aa-bd7a-05375e61f23b" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/styProject_AmazeUI.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AmazeUI-2.3.0/assets/fonts/FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AmazeUI-2.3.0/assets/fonts/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AmazeUI-2.3.0/assets/fonts/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AmazeUI-2.3.0/assets/fonts/fontawesome-webfont.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AmazeUI-2.3.0/assets/fonts/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AmazeUI-2.3.0/assets/i/app-icon72x72@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AmazeUI-2.3.0/assets/i/examples/admin-chrome.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AmazeUI-2.3.0/assets/i/examples/admin-firefox.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AmazeUI-2.3.0/assets/i/examples/admin-ie.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AmazeUI-2.3.0/assets/i/examples/admin-opera.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AmazeUI-2.3.0/assets/i/examples/admin-safari.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AmazeUI-2.3.0/assets/i/examples/adminPage.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AmazeUI-2.3.0/assets/i/examples/blogPage.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AmazeUI-2.3.0/assets/i/examples/landing.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AmazeUI-2.3.0/assets/i/examples/landingPage.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AmazeUI-2.3.0/assets/i/examples/loginPage.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AmazeUI-2.3.0/assets/i/examples/sidebarPage.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AmazeUI-2.3.0/assets/i/favicon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AmazeUI-2.3.0/assets/i/startup-640x1096.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/CHANGELOG.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/docs/examples/assets/i/app-icon72x72@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/docs/examples/assets/i/examples/admin-chrome.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/docs/examples/assets/i/examples/admin-firefox.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/docs/examples/assets/i/examples/admin-ie.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/docs/examples/assets/i/examples/admin-opera.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/docs/examples/assets/i/examples/admin-safari.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/docs/examples/assets/i/examples/adminPage.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/docs/examples/assets/i/examples/blogPage.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/docs/examples/assets/i/examples/landing.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/docs/examples/assets/i/examples/landingPage.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/docs/examples/assets/i/examples/loginPage.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/docs/examples/assets/i/examples/sidebarPage.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/docs/examples/assets/i/favicon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/docs/examples/assets/i/startup-640x1096.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/docs/javascript/scrollspy.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/fonts/FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/fonts/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/fonts/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/fonts/fontawesome-webfont.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/fonts/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/tools/generator-amuiwidget/app/templates/src/icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/vendor/amazeui/amazeui-b.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/vendor/amazeui/amazeui-cw.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/vendor/amazeui/amazeui-s.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/vendor/amazeui/amazeui-sw.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/vendor/amazeui/amazeui-w.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/accordion/src/accordion.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/blank/src/blank.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/container/src/container.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/divider/src/divider.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/duoshuo/src/duoshuo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/figure/src/figure.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/footer/src/footer.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/gallery/src/gallery.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/gotop/src/gotop.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/header/src/header.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/intro/src/intro.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/layout2/src/layout2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/layout3/src/layout3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/layout4/src/layout4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/list_news/src/list_news.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/map/src/map.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/mechat/src/mechat.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/menu/src/menu.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/navbar/src/navbar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/pagination/src/pagination.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/paragraph/src/paragraph.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/slider/src/slider.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/tabs/src/tabs.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/titlebar/src/titlebar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/wechatpay/src/wechatpay.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AmazeUI-2.3.0/admin-404.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AmazeUI-2.3.0/admin-form.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AmazeUI-2.3.0/admin-gallery.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AmazeUI-2.3.0/admin-help.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AmazeUI-2.3.0/admin-index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AmazeUI-2.3.0/admin-log.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AmazeUI-2.3.0/admin-table.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AmazeUI-2.3.0/admin-user.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AmazeUI-2.3.0/assets/css/admin.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AmazeUI-2.3.0/assets/css/amazeui.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AmazeUI-2.3.0/assets/css/amazeui.flat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AmazeUI-2.3.0/assets/css/amazeui.flat.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AmazeUI-2.3.0/assets/css/amazeui.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AmazeUI-2.3.0/assets/css/app.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AmazeUI-2.3.0/assets/fonts/fontawesome-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AmazeUI-2.3.0/assets/js/amazeui.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AmazeUI-2.3.0/assets/js/amazeui.legacy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AmazeUI-2.3.0/assets/js/amazeui.legacy.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AmazeUI-2.3.0/assets/js/amazeui.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AmazeUI-2.3.0/assets/js/amazeui.widgets.helper.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AmazeUI-2.3.0/assets/js/amazeui.widgets.helper.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AmazeUI-2.3.0/assets/js/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AmazeUI-2.3.0/assets/js/handlebars.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AmazeUI-2.3.0/assets/js/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AmazeUI-2.3.0/assets/js/polyfill/rem.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AmazeUI-2.3.0/assets/js/polyfill/respond.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AmazeUI-2.3.0/blog.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AmazeUI-2.3.0/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AmazeUI-2.3.0/iscroll.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AmazeUI-2.3.0/landing.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AmazeUI-2.3.0/login.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AmazeUI-2.3.0/non-responsive.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AmazeUI-2.3.0/sidebar.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AmazeUI-2.3.0/test/test1.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AmazeUI-2.3.0/test/test2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AmazeUI-2.3.0/widget.basic.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AmazeUI-2.3.0/widget.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/.bowerrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/.editorconfig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/.jsbeautifyrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/.jscsrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/.jshintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/CONTRIBUTING.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/LICENSE.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/README_EN.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/components.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/composer.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/dist/.gitkeep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/docs/about.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/docs/about/contact.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/docs/about/resources.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/docs/about/wantu.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/docs/amaze.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/docs/css.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/docs/css/animation.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/docs/css/article.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/docs/css/badge.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/docs/css/base.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/docs/css/block-grid.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/docs/css/breadcrumb.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/docs/css/button-group.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/docs/css/button.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/docs/css/close.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/docs/css/code.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/docs/css/comment.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/docs/css/form.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/docs/css/grid.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/docs/css/icon.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/docs/css/image.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/docs/css/input-group.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/docs/css/list.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/docs/css/mixins.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/docs/css/nav.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/docs/css/normalize.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/docs/css/pagination.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/docs/css/panel.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/docs/css/print.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/docs/css/progress.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/docs/css/table.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/docs/css/thumbnail.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/docs/css/topbar.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/docs/css/typography.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/docs/css/utility.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/docs/css/variables.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/docs/customize.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/docs/examples/admin-404.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/docs/examples/admin-form.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/docs/examples/admin-gallery.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/docs/examples/admin-help.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/docs/examples/admin-index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/docs/examples/admin-log.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/docs/examples/admin-table.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/docs/examples/admin-user.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/docs/examples/assets/css/admin.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/docs/examples/assets/css/app.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/docs/examples/assets/js/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/docs/examples/blog.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/docs/examples/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/docs/examples/iscroll.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/docs/examples/landing.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/docs/examples/login.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/docs/examples/non-responsive.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/docs/examples/sidebar.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/docs/examples/widget.basic.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/docs/examples/widget.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/docs/getting-started.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/docs/getting-started/collections.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/docs/getting-started/compatibility.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/docs/getting-started/credits.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/docs/getting-started/faq.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/docs/getting-started/feedback.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/docs/getting-started/layouts.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/docs/getting-started/next.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/docs/getting-started/project-structure.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/docs/getting-started/team.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/docs/getting-started/webapp.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/docs/getting-started/widget-dev.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/docs/javascript.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/docs/javascript/alert.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/docs/javascript/button.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/docs/javascript/collapse.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/docs/javascript/cookie.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/docs/javascript/datepicker.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/docs/javascript/dropdown.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/docs/javascript/fastclick.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/docs/javascript/fullscreen.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/docs/javascript/geolocation.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/docs/javascript/hammer.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/docs/javascript/iscroll-lite.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/docs/javascript/modal.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/docs/javascript/nprogress.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/docs/javascript/offcanvas.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/docs/javascript/popover.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/docs/javascript/pureview.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/docs/javascript/scrollspynav.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/docs/javascript/selected.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/docs/javascript/share.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/docs/javascript/slider.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/docs/javascript/smooth-scroll.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/docs/javascript/sticky.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/docs/javascript/store.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/docs/javascript/tabs.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/docs/javascript/ucheck.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/docs/javascript/validator.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/docs/styleguide/history.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/docs/styleguide/html-css-guide.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/docs/styleguide/html-css.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/docs/styleguide/javascript-guide.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/docs/styleguide/javascript.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/docs/styleguide/widget.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/docs/widgets.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/fonts/.gitkeep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/fonts/fontawesome-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/gulpfile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/js/amazeui.legacy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/js/core.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/js/ui.add2home.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/js/ui.alert.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/js/ui.button.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/js/ui.collapse.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/js/ui.datepicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/js/ui.dimmer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/js/ui.dropdown.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/js/ui.flexslider.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/js/ui.iscroll-lite.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/js/ui.modal.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/js/ui.offcanvas.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/js/ui.pinchzoom.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/js/ui.popover.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/js/ui.progress.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/js/ui.pureview.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/js/ui.scrollspy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/js/ui.scrollspynav.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/js/ui.selected.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/js/ui.share.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/js/ui.smooth-scroll.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/js/ui.sticky.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/js/ui.tabs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/js/ui.ucheck.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/js/ui.validator.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/js/util.cookie.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/js/util.fastclick.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/js/util.fullscreen.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/js/util.geolocation.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/js/util.hammer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/js/util.qrcode.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/js/util.store.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/less/amazeui.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/less/amui.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/less/animation.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/less/article.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/less/badge.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/less/base.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/less/block-grid.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/less/breadcrumb.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/less/button-group.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/less/button.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/less/close.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/less/code.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/less/color-schemes/cyan.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/less/color-schemes/cyan2.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/less/color-schemes/gray.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/less/color-schemes/green.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/less/color-schemes/green2.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/less/color-schemes/indigo.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/less/color-schemes/orange.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/less/color-schemes/orange2.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/less/color-schemes/pink.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/less/color-schemes/purple.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/less/color-schemes/red.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/less/color-schemes/red2.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/less/color-schemes/schemes.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/less/color-schemes/yellow.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/less/comment.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/less/form.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/less/grid.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/less/icon.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/less/image.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/less/input-group.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/less/legacy.ie.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/less/list.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/less/mixins.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/less/nav.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/less/pagination.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/less/panel.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/less/print.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/less/progress.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/less/table.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/less/themes/flat/amazeui.flat.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/less/themes/flat/button.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/less/themes/one/theme.one.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/less/themes/one/variables.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/less/themes/one/widgets.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/less/themes/themes.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/less/thumbnail.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/less/topbar.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/less/ui.add2home.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/less/ui.alert.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/less/ui.component.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/less/ui.datepicker.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/less/ui.dropdown.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/less/ui.flexslider.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/less/ui.modal.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/less/ui.offcanvas.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/less/ui.popover.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/less/ui.progress.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/less/ui.pureview.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/less/ui.selected.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/less/ui.share.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/less/ui.tabs.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/less/ui.ucheck.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/less/utility.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/less/variables.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/nodemon.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/tools/app/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/tools/app/lib.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/tools/app/public/style.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/tools/app/routes/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/tools/app/views/error.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/tools/app/views/index.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/tools/generator-amuiwidget/.editorconfig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/tools/generator-amuiwidget/.gitattributes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/tools/generator-amuiwidget/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/tools/generator-amuiwidget/.jshintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/tools/generator-amuiwidget/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/tools/generator-amuiwidget/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/tools/generator-amuiwidget/app/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/tools/generator-amuiwidget/app/templates/_HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/tools/generator-amuiwidget/app/templates/_README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/tools/generator-amuiwidget/app/templates/_package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/tools/generator-amuiwidget/app/templates/editorconfig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/tools/generator-amuiwidget/app/templates/jshintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/tools/generator-amuiwidget/app/templates/src/script.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/tools/generator-amuiwidget/app/templates/src/style.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/tools/generator-amuiwidget/app/templates/src/theme.default.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/tools/generator-amuiwidget/app/templates/src/tpl.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/tools/generator-amuiwidget/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/tools/generator-amuiwidget/test/test-creation.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/tools/generator-amuiwidget/test/test-load.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/tools/lib/file.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/tools/tasks/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/tools/tasks/config.simple.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/tools/tasks/customizer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/tools/tasks/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/tools/tasks/sass/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/tools/tasks/sass/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/tools/tasks/sass/scss/block-grid.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/tools/tasks/sass/scss/grid.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/tools/tasks/sass/scss/table.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/vendor/amazeui.hbs.helper.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/vendor/amazeui.hbs.partials.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/vendor/amazeui/amazeui-b.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/vendor/amazeui/amazeui-cw.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/vendor/amazeui/amazeui-s.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/vendor/amazeui/amazeui-sw.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/vendor/amazeui/amazeui-w.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/vendor/json.format.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/vendor/polyfill/rem.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/vendor/polyfill/respond.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/vendor/touch.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/accordion/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/accordion/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/accordion/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/accordion/src/accordion.basic.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/accordion/src/accordion.default.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/accordion/src/accordion.gapped.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/accordion/src/accordion.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/accordion/src/accordion.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/accordion/src/accordion.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/accordion/src/accordion.one.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/blank/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/blank/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/blank/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/blank/src/blank.default.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/blank/src/blank.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/blank/src/blank.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/blank/src/blank.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/container/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/container/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/container/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/container/src/container.default.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/container/src/container.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/container/src/container.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/container/src/container.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/divider/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/divider/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/divider/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/divider/src/divider.default.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/divider/src/divider.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/divider/src/divider.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/divider/src/divider.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/divider/src/divider.one.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/duoshuo/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/duoshuo/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/duoshuo/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/duoshuo/src/duoshuo.default.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/duoshuo/src/duoshuo.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/duoshuo/src/duoshuo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/duoshuo/src/duoshuo.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/figure/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/figure/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/figure/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/figure/src/figure.default.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/figure/src/figure.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/figure/src/figure.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/figure/src/figure.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/figure/src/figure.one.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/footer/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/footer/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/footer/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/footer/src/footer.default.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/footer/src/footer.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/footer/src/footer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/footer/src/footer.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/footer/src/footer.one.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/gallery/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/gallery/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/gallery/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/gallery/src/gallery.bordered.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/gallery/src/gallery.default.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/gallery/src/gallery.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/gallery/src/gallery.imgbordered.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/gallery/src/gallery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/gallery/src/gallery.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/gallery/src/gallery.one.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/gallery/src/gallery.overlay.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/gotop/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/gotop/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/gotop/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/gotop/src/gotop.default.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/gotop/src/gotop.fixed.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/gotop/src/gotop.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/gotop/src/gotop.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/gotop/src/gotop.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/gotop/src/gotop.one.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/header/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/header/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/header/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/header/src/header.default.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/header/src/header.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/header/src/header.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/header/src/header.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/header/src/header.one.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/intro/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/intro/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/intro/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/intro/src/intro.default.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/intro/src/intro.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/intro/src/intro.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/intro/src/intro.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/intro/src/intro.one.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/layout2/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/layout2/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/layout2/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/layout2/src/layout2.default.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/layout2/src/layout2.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/layout2/src/layout2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/layout2/src/layout2.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/layout3/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/layout3/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/layout3/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/layout3/src/layout3.default.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/layout3/src/layout3.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/layout3/src/layout3.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/layout3/src/layout3.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/layout4/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/layout4/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/layout4/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/layout4/src/layout4.default.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/layout4/src/layout4.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/layout4/src/layout4.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/layout4/src/layout4.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/list_news/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/list_news/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/list_news/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/list_news/src/list_news.default.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/list_news/src/list_news.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/list_news/src/list_news.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/list_news/src/list_news.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/list_news/src/list_news.one.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/map/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/map/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/map/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/map/src/map.default.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/map/src/map.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/map/src/map.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/map/src/map.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/mechat/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/mechat/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/mechat/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/mechat/src/mechat.default.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/mechat/src/mechat.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/mechat/src/mechat.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/mechat/src/mechat.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/menu/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/menu/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/menu/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/menu/src/menu.default.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/menu/src/menu.dropdown1.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/menu/src/menu.dropdown2.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/menu/src/menu.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/menu/src/menu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/menu/src/menu.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/menu/src/menu.offcanvas1.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/menu/src/menu.offcanvas2.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/menu/src/menu.one.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/menu/src/menu.slide1.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/menu/src/menu.stack.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/navbar/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/navbar/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/navbar/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/navbar/src/navbar.default.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/navbar/src/navbar.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/navbar/src/navbar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/navbar/src/navbar.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/navbar/src/navbar.one.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/pagination/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/pagination/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/pagination/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/pagination/src/pagination.default.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/pagination/src/pagination.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/pagination/src/pagination.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/pagination/src/pagination.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/pagination/src/pagination.one.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/pagination/src/pagination.select.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/paragraph/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/paragraph/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/paragraph/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/paragraph/src/paragraph.default.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/paragraph/src/paragraph.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/paragraph/src/paragraph.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/paragraph/src/paragraph.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/paragraph/src/paragraph.one.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/slider/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/slider/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/slider/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/slider/src/slider.a1.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/slider/src/slider.a2.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/slider/src/slider.a3.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/slider/src/slider.a4.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/slider/src/slider.a5.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/slider/src/slider.b1.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/slider/src/slider.b2.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/slider/src/slider.b3.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/slider/src/slider.b4.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/slider/src/slider.c1.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/slider/src/slider.c2.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/slider/src/slider.c3.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/slider/src/slider.c4.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/slider/src/slider.d1.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/slider/src/slider.d2.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/slider/src/slider.d3.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/slider/src/slider.default.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/slider/src/slider.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/slider/src/slider.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/slider/src/slider.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/slider/src/slider.one.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/tabs/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/tabs/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/tabs/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/tabs/src/tabs.d2.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/tabs/src/tabs.default.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/tabs/src/tabs.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/tabs/src/tabs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/tabs/src/tabs.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/tabs/src/tabs.one.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/titlebar/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/titlebar/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/titlebar/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/titlebar/src/titlebar.cols.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/titlebar/src/titlebar.default.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/titlebar/src/titlebar.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/titlebar/src/titlebar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/titlebar/src/titlebar.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/titlebar/src/titlebar.multi.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/titlebar/src/titlebar.one.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/wechatpay/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/wechatpay/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/wechatpay/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/wechatpay/src/wechatpay.default.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/wechatpay/src/wechatpay.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/wechatpay/src/wechatpay.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazeui-master/amazeui-master/widget/wechatpay/src/wechatpay.less" />
+    </list>
+    <ignored path="styProject_AmazeUI.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents ProjectPane="true" />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="styProject_AmazeUI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="styProject_AmazeUI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="styProject_AmazeUI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="styProject_AmazeUI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="styProject_AmazeUI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AmazeUI-2.3.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager">
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="DETECT_NESTED_COPIES" value="true" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <created>1430216733434</created>
+      <updated>1430216733434</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24986821" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="CHECK_NEW_TODO" value="true" />
+    <option name="myTodoPanelSettings">
+      <value>
+        <are-packages-shown value="false" />
+        <are-modules-shown value="false" />
+        <flatten-packages value="false" />
+        <is-autoscroll-to-source value="false" />
+      </value>
+    </option>
+    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
+    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
+    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
+    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
+    <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
+    <option name="SHORT_DIFF_HORISONTALLY" value="true" />
+    <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
+    <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
+    <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
+    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
+    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
+    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
+    <option name="ACTIVE_VCS_NAME" />
+    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
+    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
+    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+</project>
+
